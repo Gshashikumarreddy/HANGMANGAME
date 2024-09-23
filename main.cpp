@@ -6,8 +6,8 @@ int main()
 {
   greet();
 
-  string codeword = "codingcleverly";
-  string answer = "______________";
+  string codeword = "hangmangame";
+  string answer = "____________";
   int misses = 0;
   vector<char> incorrect;
   bool guess = false;
